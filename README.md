@@ -33,4 +33,4 @@ Most of my interest lies in backend logic, but I also work comfortably across th
 
 ---
 
-⭐ Always learning and driven to be better
+Always learning and driven to be better!
