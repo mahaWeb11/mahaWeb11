@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student with a strong focus on backend development — especially API design, server-side architecture, and database systems.
+I'm a IT student with a strong focus on backend development — especially API design, server-side architecture, and database systems.
 
 I enjoy building reliable, scalable applications and writing clean, well-structured code.  
 Most of my interest lies in backend logic, but I also work comfortably across the full stack.
